@@ -8,7 +8,7 @@ Software Used: SAS
                                                                                                                                         
                                                                                                                                         
 /*Importing data*/                                                                                                                      
-libname in "E:\SAS\Biswarup\project";                                                                                    
+libname in "E:\SAS\Biswarup\Project";                                                                                    
                                                                                                                                         
 /*To check the overall structure of the data*/                                                                                          
 proc contents data = in.Data_logistic;                                                                                                  
