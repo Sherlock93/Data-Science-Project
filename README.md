@@ -1,6 +1,6 @@
 # Data-Science-Project
-Data Incubator Challenge question project
-Project Name: Probability of Default Model
+Data Incubator Challenge question project;  
+Project Name: Probability of Default Model;  
 Software Used: SAS
 
 
